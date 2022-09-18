@@ -21,7 +21,12 @@ footer {
     padding: 20px 0;
 }
 
+.navbar {
+    background-color: #901CAD;
+}
+
 .jumbotron {
+    margin: 0;
     padding: 30px;
     background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
     color: white;
